@@ -1,0 +1,21 @@
+.heading {
+    margin-top: 200px;
+    color: rgb(239, 96, 96);
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+}
+
+body{
+    /* Custom CSS for a linear gradient combination */
+    background: linear-gradient(to right, lightblue , purple);
+}
+
+input:focus {
+    outline: none;
+  }
+    
+  
+
